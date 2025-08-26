@@ -8,6 +8,3 @@ A simple Django app for posting tweets and logging history via signals. Includes
 - User authentication
 
 Creating tweets can be accessed using "/login/" 
-and the test dummy account is 
-User: admin
-Pass: 123
